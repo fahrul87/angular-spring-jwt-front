@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-spring-jwt"
+    }
+  },
+  "defaultProject": "angular-spring-jwt",
+  "cli": {
+    "analytics": "58c9f11e-3ab7-4394-94da-2816d4f4bb07"
+  }
 }
